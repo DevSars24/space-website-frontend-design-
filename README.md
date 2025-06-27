@@ -1,12 +1,28 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌌 Cosmic Frontend UI
 
-Currently, two official plugins are available:
+This is a visually immersive **space-themed frontend project** built using **React + Tailwind CSS + Vite**. It features interactive UI sections like Stars, Galaxies, SpaceX, and more — all wrapped in a glowing animated cosmic background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌠 Animated typing effect: `love for planets, stars, moons, galaxies, multiverse`
+- 🌌 Glowing image with orbit effect using pure CSS
+- 🎴 Interactive cards for stars, galaxies, and inventions
+- 💫 Cosmic animated background from public folder
+- 🎨 Tailwind CSS for rapid and responsive design
+
+---
+
+## 📂 Tech Stack
+
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 💡 Custom CSS animations (keyframes, orbit spin, typing effect)
+- 🔗 Git & GitHub for version control
+
+---
+
+
+![Screenshot 2025-06-28 014721](https://github.com/user-attachments/assets/0009d7a3-09e2-4cf0-8b5c-dae21b652a7c)
